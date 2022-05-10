@@ -125,3 +125,5 @@ app.put('/heroes/:slug', (req, res) => {
 app.listen(3000, () => {
     console.log('The server is now listening on http://localhost:3000')
 })
+
+module.exports = app
