@@ -1,7 +1,7 @@
 const request = require("supertest")
 const app = require('../index')
 
-describe('Sample tests', function() {
+describe('Sample tests caca pipi', function() {
     it('Should be an exemple true', function() {
         expect(true).toBe(true)
     })
