@@ -1,7 +1,8 @@
 const request = require("supertest")
+const mongoose =require("mongoose")
 const app = require('../index')
 
-describe('Sample tests', function() {
+describe('Sample tests totot tata', function() {
     it('Should be an exemple true', function() {
         expect(true).toBe(true)
     })
